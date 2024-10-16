@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersegurity
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on I would like to delve deeper into the area of ​​pentest so that I can pursue the profession in the future.
-- 📫 How to reach me email robsonairdrop@gamil.com
+- 📫 How to reach me email robsonairdrop@gmail.com
 - ⚡ Fun fact: I'm an accountant by profession, but I study a lot and develop in general
 
 <!---
